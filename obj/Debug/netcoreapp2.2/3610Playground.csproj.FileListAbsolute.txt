@@ -1,0 +1,11 @@
+C:\Users\Grif\Desktop\3610Playground\bin\Debug\netcoreapp2.2\3610Playground.deps.json
+C:\Users\Grif\Desktop\3610Playground\bin\Debug\netcoreapp2.2\3610Playground.runtimeconfig.json
+C:\Users\Grif\Desktop\3610Playground\bin\Debug\netcoreapp2.2\3610Playground.runtimeconfig.dev.json
+C:\Users\Grif\Desktop\3610Playground\bin\Debug\netcoreapp2.2\3610Playground.dll
+C:\Users\Grif\Desktop\3610Playground\bin\Debug\netcoreapp2.2\3610Playground.pdb
+C:\Users\Grif\Desktop\3610Playground\obj\Debug\netcoreapp2.2\3610Playground.csprojAssemblyReference.cache
+C:\Users\Grif\Desktop\3610Playground\obj\Debug\netcoreapp2.2\3610Playground.csproj.CoreCompileInputs.cache
+C:\Users\Grif\Desktop\3610Playground\obj\Debug\netcoreapp2.2\3610Playground.AssemblyInfoInputs.cache
+C:\Users\Grif\Desktop\3610Playground\obj\Debug\netcoreapp2.2\3610Playground.AssemblyInfo.cs
+C:\Users\Grif\Desktop\3610Playground\obj\Debug\netcoreapp2.2\3610Playground.dll
+C:\Users\Grif\Desktop\3610Playground\obj\Debug\netcoreapp2.2\3610Playground.pdb
