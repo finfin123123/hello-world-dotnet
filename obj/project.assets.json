@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grif\\Desktop\\3610Playground\\3610Playground.csproj",
+      "projectUniqueName": "c:\\Users\\Grif\\Desktop\\3610Playground\\hello-world-dotnet\\3610Playground.csproj",
       "projectName": "3610Playground",
-      "projectPath": "C:\\Users\\Grif\\Desktop\\3610Playground\\3610Playground.csproj",
+      "projectPath": "c:\\Users\\Grif\\Desktop\\3610Playground\\hello-world-dotnet\\3610Playground.csproj",
       "packagesPath": "C:\\Users\\Grif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grif\\Desktop\\3610Playground\\obj\\",
+      "outputPath": "c:\\Users\\Grif\\Desktop\\3610Playground\\hello-world-dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

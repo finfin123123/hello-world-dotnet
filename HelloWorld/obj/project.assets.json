@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Grif\\Desktop\\3610Playground\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "c:\\Users\\Grif\\Desktop\\3610Playground\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Grif\\Desktop\\3610Playground\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "c:\\Users\\Grif\\Desktop\\3610Playground\\hello-world-dotnet\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Grif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Grif\\Desktop\\3610Playground\\HelloWorld\\obj\\",
+      "outputPath": "c:\\Users\\Grif\\Desktop\\3610Playground\\hello-world-dotnet\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

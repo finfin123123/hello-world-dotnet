@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\Grif\\Desktop\\3610Playground\\3610Playground.csproj",
+  "ProjectFilePath": "c:\\Users\\Grif\\Desktop\\3610Playground\\hello-world-dotnet\\3610Playground.csproj",
   "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
